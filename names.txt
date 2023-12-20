@@ -1,0 +1,6 @@
+This is an example test. 
+I learnt that to delete a repository, one should use;
+rm -rf <name of repository>
+
+And to delete added remote repository, one should use;
+rm -rf <remote>

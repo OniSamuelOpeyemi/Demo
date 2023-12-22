@@ -1,5 +1,14 @@
+<<<<<<< HEAD
 Good morning Jesus,
 Good morning Lord 
 I know you come from heaven above
 Let the holy spirit take full control 
 Good morning Jesus, Good morning Lord
+=======
+This is an example test. 
+I learnt that to delete a repository, one should use;
+rm -rf <name of repository>
+
+And to delete added remote repository, one should use;
+rm -rf <remote>
+>>>>>>> 5c2c878f1cd6104e0ed9853cba89ca382bfc8e3f
